@@ -1,4 +1,4 @@
 # git-demo
 
-Demo of git & github!
-
+* first change
+* another change
